@@ -9,3 +9,5 @@
 
 
 .vs
+bin/Release/net6.0/appsettings.json
+obj/Release/net6.0/PubTmp/Out/appsettings.json
