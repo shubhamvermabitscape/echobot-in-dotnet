@@ -4,6 +4,9 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using DotNetEnv;
+using System;
+
 
 namespace EchoBot
 {
@@ -11,6 +14,7 @@ namespace EchoBot
     {
         public static void Main(string[] args)
         {
+            Env.Load();
             CreateHostBuilder(args).Build().Run();
         }
 

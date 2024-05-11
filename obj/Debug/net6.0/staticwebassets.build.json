@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AouF1rYcFoG0BunupaghgMuM3m6seJc0jlW8htjl8FA=",
+  "Hash": "O6jBpt2czI/oX5NZiyhbpa4xZfiCIcwQJCerpC+Y6Es=",
   "Source": "EchoBot",
   "BasePath": "_content/EchoBot",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EchoBot\\wwwroot",
       "Source": "EchoBot",
-      "ContentRoot": "c:\\infradevelopment\\Live Project\\photon\\10-05-2024\\dotnet\\echobot\\wwwroot\\",
+      "ContentRoot": "C:\\infradevelopment\\Live Project\\photon\\10-05-2024\\dotnet\\echobot\\wwwroot\\",
       "BasePath": "_content/EchoBot",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\infradevelopment\\Live Project\\photon\\10-05-2024\\dotnet\\echobot\\wwwroot\\default.html",
+      "Identity": "C:\\infradevelopment\\Live Project\\photon\\10-05-2024\\dotnet\\echobot\\wwwroot\\default.html",
       "SourceId": "EchoBot",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\infradevelopment\\Live Project\\photon\\10-05-2024\\dotnet\\echobot\\wwwroot\\",
+      "ContentRoot": "C:\\infradevelopment\\Live Project\\photon\\10-05-2024\\dotnet\\echobot\\wwwroot\\",
       "BasePath": "_content/EchoBot",
       "RelativePath": "default.html",
       "AssetKind": "All",
